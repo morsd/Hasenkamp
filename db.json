@@ -1,0 +1,9 @@
+  
+{
+  "Cagegory": [
+    { "ID": "1", "Category": "Beratung"},
+    { "ID": "2", "Category": "Support"},
+    { "ID": "3", "Category": "Reklamation"},
+    { "ID": "4", "Category": "Services"}
+  ]
+}
